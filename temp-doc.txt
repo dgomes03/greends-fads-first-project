@@ -1,0 +1,8 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+This copy command goes to a level up in the directory and copies everything that begins with "temp-". This is done because all of our files begin with "temp-", making it much more efficient than typing each one individually.
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+We didn't need to run git init because this folder was cloned from github, so it is already initialised.
+
+
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
