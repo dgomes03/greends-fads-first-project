@@ -6,3 +6,4 @@ We didn't need to run git init because this folder was cloned from github, so it
 
 
 5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+I used the command: git commit * -m "initial commit".
